@@ -5,6 +5,8 @@ This ``R`` code makes a line plot using 'xkcd' style graphics from the ``xkcd`` 
 
 Easist way to get this on your own computer is to just click on "Download ZIP" at the right.
 
+Make the graph, save to your computer, and then add text as you please in PowerPoint, Keynote, or the like (Humor Sans will be available there too if you install correctly). If you're less lazy than me, you can add the text within the ``ggplot2`` call.
+
 **IMPORTANT**: you must install the Humor Sans font on your computer and then import it to ``R``. Download the font here: http://xkcdsucks.blogspot.com/2009/03/xkcdsucks-is-proud-to-present-humor.html. Once you install the font on your computer, you import it into ``R`` using the ``import_font`` command as seen in the code.
 
 Packages Required
